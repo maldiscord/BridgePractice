@@ -1,0 +1,46 @@
+arena:
+  '1':
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: -46.586912474354904
+      y: 65.0
+      z: -3.4949888668183613
+      pitch: -2.2278025
+      yaw: -0.39630005
+  '2':
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: -58.48122598550664
+      y: 65.0
+      z: -3.3834285076127353
+      pitch: 1.758588
+      yaw: 0.53252023
+  '3':
+    location:
+    ==: org.bukkit.Location
+    world: world
+    x: -71.586912474354904
+    y: 65.0
+    z: -3.4949888668183613
+    pitch: -2.2278025
+    yaw: -0.39630005
+  '4':
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: -82.53497071333379
+      y: 65.0
+      z: -3.481575323652194
+      pitch: -3.8916066
+      yaw: -0.357463
+  '5':
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: -94.43327298548024
+      y: 65.0
+      z: -3.2865038586821838
+      pitch: 1.8757186
+      yaw: 1.9650965
